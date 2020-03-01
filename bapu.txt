@@ -1,3 +1,4 @@
 git init
 hona
 chalel
+mng ka mhnu t
